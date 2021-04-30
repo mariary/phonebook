@@ -1,0 +1,28 @@
+html {
+    min-height: 100vh;
+}
+body {
+    background: linear-gradient(167.65deg, #153544 6.6%, #4B5A5B 92.33%) no-repeat;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+header {
+    color: #d2c9bc;
+    font-family: 'Roboto';
+    font-size: 30px;
+    text-align: center;
+    margin: 20px 0;
+}
+.content {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1.5em;
+}
+
+@media screen and (max-width: 770px){
+    .content {
+        display: block;
+    }
+}
