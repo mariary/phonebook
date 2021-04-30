@@ -13,13 +13,11 @@
     font-weight: 200;
     display: flex;
     align-items: center;
-    font-family: 'Poboto';
 }
 
 .phone {
     margin: 0 10px;
     font-weight: 400;
-    font-family: 'Poboto';
 }
 
 .del_btn {
