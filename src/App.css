@@ -1,8 +1,9 @@
 html {
     min-height: 100vh;
+    background: linear-gradient(167.65deg, #153544 6.6%, #4B5A5B 92.33%) no-repeat;
 }
 body {
-    background: linear-gradient(167.65deg, #153544 6.6%, #4B5A5B 92.33%) no-repeat;
+
 }
 .container {
     max-width: 1200px;
